@@ -1,0 +1,1 @@
+server=220.134.62.85;user=root;database=iprotek_master;port=3307;password=aaa222!!!;charset=utf8;
