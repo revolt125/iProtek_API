@@ -1,1 +1,0 @@
-server=220.134.62.85;user=root;database=i-protek03;port=3307;password=aaa222!!!;charset=utf8;
